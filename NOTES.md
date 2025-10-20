@@ -25,8 +25,8 @@ Debezium — это платформа с открытым исходным ко
 
 ### Дополнительные материалы
 
-- [Demo проект с Debezium](https://zh-efimenko.github.io/demo-debezium/) - готовые примеры конфигураций
 - [Debezium connector for PostgreSQL](https://debezium.io/documentation/reference/3.2/connectors/postgresql.html) - официальная документация по коннектору PostgreSQL
+- [Demo проект с Debezium](https://zh-efimenko.github.io/demo-debezium/) - простые примеры конфигураций
 
 ## 🔄 Репликационный слот PostgreSQL
 
