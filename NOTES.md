@@ -98,6 +98,8 @@ INSERT INTO public.heartbeat (ts) VALUES (NOW());
 
 - Самое простое в настройке когда **source:** PostgreSQL, а **destination:** Kafka. Возможность использовать как destination другие системы (redis, rabbitmq, elasticsearch и т.д.)
 
+- Не нашел других OpenSource альтернатив Debezium для выполения своих целей
+
 ## 🖥️ Kafka UI
 
 - **GitHub**: [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui)
