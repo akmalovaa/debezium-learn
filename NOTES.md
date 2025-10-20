@@ -112,3 +112,15 @@ INSERT INTO public.heartbeat (ts) VALUES (NOW());
 - ⚙️ Управление конфигурацией Kafka
 
 - **GitHub**: [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui)
+
+## Debezium Management Platform
+
+- **GitHub**: [debezium-platform](https://github.com/debezium/debezium-platform)
+
+Новый сервис от debezium
+
+Платформа управления Debezium, призвана упростить развертывание Debezium
+
+UI интерфейс для управления коннекторами и трансформации данных. Где можно простыми кликами определить с какой базы, какие данные, что именно вытащить, как на ходу преобразовать и куда отправить.
+
+Этот проект все еще находится на ранней стадии разработки и не должен использоваться в рабочей среде.
