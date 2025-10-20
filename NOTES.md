@@ -22,6 +22,7 @@ Debezium — это платформа с открытым исходным ко
 - [Kafka Streams (OUTBOX pattern, Kafka Connect, Debezium)](https://www.youtube.com/watch?v=uaT_AJujPnw) - практические примеры
 - [Евгений Ефименко: Debezium - Баттута в руках инженера](https://www.youtube.com/watch?v=IPV6WVx71k8) - опыт использования в продакшене
 - [SREday - Debezium Server CDC runtime on the horizon](https://www.youtube.com/watch?v=Bz4QaR-0zWQ) - обзор сервера Debezium
+- [Confluent Outbox Pattern](https://www.youtube.com/watch?v=5YLpjPmsPCA&t) - наглядное описание Transactional Outbox паттерна от Confluent
 
 ### Дополнительные материалы
 
