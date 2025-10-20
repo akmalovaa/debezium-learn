@@ -1,0 +1,16 @@
+{
+    "name": "postgres-connector",
+    "config": {
+        "connector.class": "io.debezium.connector.postgresql.PostgresConnector",
+        "database.hostname": "postgres",
+        "database.port": "5432",
+        "database.user": "debezium",
+        "database.password": "debezium",
+        "database.dbname": "testdb",
+        "topic.prefix": "testdb",
+        "table.include.list": "public.messages,public.heartbeat",
+        "plugin.name": "pgoutput",
+        "slot.name": "debezium_slot",
+        "publication.name": "debezium_pub"
+    }
+}

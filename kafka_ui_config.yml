@@ -1,0 +1,4 @@
+kafka:
+  clusters:
+    - name: debezium-testing
+      bootstrap-servers: kafka:9092
