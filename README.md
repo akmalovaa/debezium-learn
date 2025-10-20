@@ -4,6 +4,8 @@ This repository contains experiments and learning materials related to Debezium,
 
 ## Simple PostgreSQL CDC with Debezium and Kafka
 
+![scheme](./images/scheme1.png)
+
 ### Structure
 
 - PostgreSQL 17-alpine
